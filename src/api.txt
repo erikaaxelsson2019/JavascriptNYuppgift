@@ -1,0 +1,16 @@
+https://inlupp-fa.azurewebsites.net/api/distribution - Klar
+https://inlupp-fa.azurewebsites.net/api/downloads - INTE KLAR
+https://inlupp-fa.azurewebsites.net/api/messages - Klar
+https://inlupp-fa.azurewebsites.net/api/notifications - Klar
+https://inlupp-fa.azurewebsites.net/api/open-invoices - Klar
+https://inlupp-fa.azurewebsites.net/api/sales-report - Klar
+https://inlupp-fa.azurewebsites.net/api/tickets - INTE KLAR
+https://inlupp-fa.azurewebsites.net/api/total-growth - Klar
+https://inlupp-fa.azurewebsites.net/api/total-orders - Klar
+https://inlupp-fa.azurewebsites.net/api/total-projects - Klar
+https://inlupp-fa.azurewebsites.net/api/total-purchases - Klar
+https://inlupp-fa.azurewebsites.net/api/total-sales - Klar
+https://inlupp-fa.azurewebsites.net/api/total-sales-chart - Klar
+https://inlupp-fa.azurewebsites.net/api/total-users - Klar
+https://inlupp-fa.azurewebsites.net/api/updates - Klar
+https://inlupp-fa.azurewebsites.net/api/users - Klar
